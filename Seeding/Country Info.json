@@ -1,0 +1,1045 @@
+[
+ {
+   "country_code": "AL",
+   "country_name": "Albania",
+   "cost_rating": 2,
+   "peak_season_start": "Jun",
+   "peak_season_end": "Sep"
+ },
+ {
+   "country_code": "DZ",
+   "country_name": "Algeria",
+   "cost_rating": 3,
+   "peak_season_start": "Mar",
+   "peak_season_end": "May"
+ },
+ {
+   "country_code": "AO",
+   "country_name": "Angola",
+   "cost_rating": 4,
+   "peak_season_start": "May",
+   "peak_season_end": "Oct"
+ },
+ {
+   "country_code": "AG",
+   "country_name": "Antigua and Barbuda",
+   "cost_rating": 6,
+   "peak_season_start": "Dec",
+   "peak_season_end": "Apr"
+ },
+ {
+   "country_code": "AR",
+   "country_name": "Argentina",
+   "cost_rating": 2,
+   "peak_season_start": "Dec",
+   "peak_season_end": "Feb"
+ },
+ {
+   "country_code": "AM",
+   "country_name": "Armenia",
+   "cost_rating": 3,
+   "peak_season_start": "Jun",
+   "peak_season_end": "Sep"
+ },
+ {
+   "country_code": "AT",
+   "country_name": "Austria",
+   "cost_rating": 5,
+   "peak_season_start": "Jun",
+   "peak_season_end": "Aug"
+ },
+ {
+   "country_code": "AZ",
+   "country_name": "Azerbaijan",
+   "cost_rating": 3,
+   "peak_season_start": "May",
+   "peak_season_end": "Oct"
+ },
+ {
+   "country_code": "BS",
+   "country_name": "Bahamas",
+   "cost_rating": 6,
+   "peak_season_start": "Dec",
+   "peak_season_end": "Apr"
+ },
+ {
+   "country_code": "BH",
+   "country_name": "Bahrain",
+   "cost_rating": 5,
+   "peak_season_start": "Nov",
+   "peak_season_end": "Mar"
+ },
+ {
+   "country_code": "BD",
+   "country_name": "Bangladesh",
+   "cost_rating": 4,
+   "peak_season_start": "Oct",
+   "peak_season_end": "Mar"
+ },
+ {
+   "country_code": "BB",
+   "country_name": "Barbados",
+   "cost_rating": 6,
+   "peak_season_start": "Dec",
+   "peak_season_end": "Apr"
+ },
+ {
+   "country_code": "BY",
+   "country_name": "Belarus",
+   "cost_rating": 2,
+   "peak_season_start": "Jun",
+   "peak_season_end": "Sep"
+ },
+ {
+   "country_code": "BE",
+   "country_name": "Belgium",
+   "cost_rating": 5,
+   "peak_season_start": "May",
+   "peak_season_end": "Sep"
+ },
+ {
+   "country_code": "BM",
+   "country_name": "Bermuda",
+   "cost_rating": 6,
+   "peak_season_start": "May",
+   "peak_season_end": "Oct"
+ },
+ {
+   "country_code": "BO",
+   "country_name": "Bolivia",
+   "cost_rating": 3,
+   "peak_season_start": "May",
+   "peak_season_end": "Oct"
+ },
+ {
+   "country_code": "BA",
+   "country_name": "Bosnia",
+   "cost_rating": 2,
+   "peak_season_start": "Jun",
+   "peak_season_end": "Sep"
+ },
+ {
+   "country_code": "BR",
+   "country_name": "Brazil",
+   "cost_rating": 3,
+   "peak_season_start": "Dec",
+   "peak_season_end": "Mar"
+ },
+ {
+   "country_code": "BN",
+   "country_name": "Brunei",
+   "cost_rating": 3,
+   "peak_season_start": "Dec",
+   "peak_season_end": "Feb"
+ },
+ {
+   "country_code": "BG",
+   "country_name": "Bulgaria",
+   "cost_rating": 3,
+   "peak_season_start": "Jun",
+   "peak_season_end": "Aug"
+ },
+ {
+   "country_code": "BF",
+   "country_name": "Burkina Faso",
+   "cost_rating": 3,
+   "peak_season_start": "Nov",
+   "peak_season_end": "Feb"
+ },
+ {
+   "country_code": "KH",
+   "country_name": "Cambodia",
+   "cost_rating": 1,
+   "peak_season_start": "Nov",
+   "peak_season_end": "Mar"
+ },
+ {
+   "country_code": "CM",
+   "country_name": "Cameroon",
+   "cost_rating": 4,
+   "peak_season_start": "Nov",
+   "peak_season_end": "Feb"
+ },
+ {
+   "country_code": "CA",
+   "country_name": "Canada",
+   "cost_rating": 4,
+   "peak_season_start": "Jun",
+   "peak_season_end": "Aug"
+ },
+ {
+   "country_code": "CL",
+   "country_name": "Chile",
+   "cost_rating": 3,
+   "peak_season_start": "Dec",
+   "peak_season_end": "Feb"
+ },
+ {
+   "country_code": "CN",
+   "country_name": "China",
+   "cost_rating": 5,
+   "peak_season_start": "Apr",
+   "peak_season_end": "Oct"
+ },
+ {
+   "country_code": "CO",
+   "country_name": "Colombia",
+   "cost_rating": 3,
+   "peak_season_start": "Dec",
+   "peak_season_end": "Feb"
+ },
+ {
+   "country_code": "CD",
+   "country_name": "Congo Democratic Republic",
+   "cost_rating": 4,
+   "peak_season_start": "May",
+   "peak_season_end": "Oct"
+ },
+ {
+   "country_code": "CK",
+   "country_name": "Cook Islands",
+   "cost_rating": 4,
+   "peak_season_start": "May",
+   "peak_season_end": "Oct"
+ },
+ {
+   "country_code": "CR",
+   "country_name": "Costa Rica",
+   "cost_rating": 3,
+   "peak_season_start": "Dec",
+   "peak_season_end": "Apr"
+ },
+ {
+   "country_code": "CI",
+   "country_name": "Cote D'lvoire",
+   "cost_rating": 4,
+   "peak_season_start": "Dec",
+   "peak_season_end": "Mar"
+ },
+ {
+   "country_code": "HR",
+   "country_name": "Croatia",
+   "cost_rating": 3,
+   "peak_season_start": "Jun",
+   "peak_season_end": "Sep"
+ },
+ {
+   "country_code": "CU",
+   "country_name": "Cuba",
+   "cost_rating": 3,
+   "peak_season_start": "Dec",
+   "peak_season_end": "Apr"
+ },
+ {
+   "country_code": "CY",
+   "country_name": "Cyprus",
+   "cost_rating": 4,
+   "peak_season_start": "Apr",
+   "peak_season_end": "Oct"
+ },
+ {
+   "country_code": "CZ",
+   "country_name": "Czech Republic",
+   "cost_rating": 3,
+   "peak_season_start": "Jun",
+   "peak_season_end": "Aug"
+ },
+ {
+   "country_code": "DK",
+   "country_name": "Denmark",
+   "cost_rating": 6,
+   "peak_season_start": "Jun",
+   "peak_season_end": "Aug"
+ },
+ {
+   "country_code": "DO",
+   "country_name": "Dominican Republic",
+   "cost_rating": 4,
+   "peak_season_start": "Dec",
+   "peak_season_end": "Apr"
+ },
+ {
+   "country_code": "TL",
+   "country_name": "East Timor",
+   "cost_rating": 4,
+   "peak_season_start": "Jun",
+   "peak_season_end": "Sep"
+ },
+ {
+   "country_code": "EC",
+   "country_name": "Ecuador",
+   "cost_rating": 4,
+   "peak_season_start": "Jun",
+   "peak_season_end": "Sep"
+ },
+ {
+   "country_code": "EG",
+   "country_name": "Egypt",
+   "cost_rating": 3,
+   "peak_season_start": "Oct",
+   "peak_season_end": "Apr"
+ },
+ {
+   "country_code": "SV",
+   "country_name": "El Salvador",
+   "cost_rating": 3,
+   "peak_season_start": "Dec",
+   "peak_season_end": "Apr"
+ },
+ {
+   "country_code": "ER",
+   "country_name": "Eritrea",
+   "cost_rating": 4,
+   "peak_season_start": "Dec",
+   "peak_season_end": "Feb"
+ },
+ {
+   "country_code": "EE",
+   "country_name": "Estonia",
+   "cost_rating": 4,
+   "peak_season_start": "Jun",
+   "peak_season_end": "Aug"
+ },
+ {
+   "country_code": "ET",
+   "country_name": "Ethiopia",
+   "cost_rating": 2,
+   "peak_season_start": "Oct",
+   "peak_season_end": "Feb"
+ },
+ {
+   "country_code": "FJ",
+   "country_name": "Fiji",
+   "cost_rating": 3,
+   "peak_season_start": "May",
+   "peak_season_end": "Oct"
+ },
+ {
+   "country_code": "FI",
+   "country_name": "Finland",
+   "cost_rating": 6,
+   "peak_season_start": "Jun",
+   "peak_season_end": "Aug"
+ },
+ {
+   "country_code": "FR",
+   "country_name": "France",
+   "cost_rating": 5,
+   "peak_season_start": "Jun",
+   "peak_season_end": "Aug"
+ },
+ {
+   "country_code": "PF",
+   "country_name": "French Polynesia",
+   "cost_rating": 6,
+   "peak_season_start": "May",
+   "peak_season_end": "Oct"
+ },
+ {
+   "country_code": "GA",
+   "country_name": "Gabon",
+   "cost_rating": 6,
+   "peak_season_start": "Jun",
+   "peak_season_end": "Sep"
+ },
+ {
+   "country_code": "GM",
+   "country_name": "Gambia",
+   "cost_rating": 2,
+   "peak_season_start": "Nov",
+   "peak_season_end": "Feb"
+ },
+ {
+   "country_code": "GE",
+   "country_name": "Georgia",
+   "cost_rating": 2,
+   "peak_season_start": "May",
+   "peak_season_end": "Oct"
+ },
+ {
+   "country_code": "DE",
+   "country_name": "Germany",
+   "cost_rating": 5,
+   "peak_season_start": "Jun",
+   "peak_season_end": "Aug"
+ },
+ {
+   "country_code": "GH",
+   "country_name": "Ghana",
+   "cost_rating": 4,
+   "peak_season_start": "Dec",
+   "peak_season_end": "Mar"
+ },
+ {
+   "country_code": "GI",
+   "country_name": "Gibraltar",
+   "cost_rating": 4,
+   "peak_season_start": "May",
+   "peak_season_end": "Sep"
+ },
+ {
+   "country_code": "GR",
+   "country_name": "Greece",
+   "cost_rating": 4,
+   "peak_season_start": "Jun",
+   "peak_season_end": "Sep"
+ },
+ {
+   "country_code": "GT",
+   "country_name": "Guatemala",
+   "cost_rating": 4,
+   "peak_season_start": "Dec",
+   "peak_season_end": "Apr"
+ },
+ {
+   "country_code": "GY",
+   "country_name": "Guyana",
+   "cost_rating": 3,
+   "peak_season_start": "Dec",
+   "peak_season_end": "Apr"
+ },
+ {
+   "country_code": "HK",
+   "country_name": "Hong Kong",
+   "cost_rating": 5,
+   "peak_season_start": "Oct",
+   "peak_season_end": "Mar"
+ },
+ {
+   "country_code": "HU",
+   "country_name": "Hungary",
+   "cost_rating": 3,
+   "peak_season_start": "Jun",
+   "peak_season_end": "Aug"
+ },
+ {
+   "country_code": "IS",
+   "country_name": "Iceland",
+   "cost_rating": 6,
+   "peak_season_start": "Jun",
+   "peak_season_end": "Aug"
+ },
+ {
+   "country_code": "IN",
+   "country_name": "India",
+   "cost_rating": 3,
+   "peak_season_start": "Nov",
+   "peak_season_end": "Feb"
+ },
+ {
+   "country_code": "ID",
+   "country_name": "Indonesia",
+   "cost_rating": 3,
+   "peak_season_start": "May",
+   "peak_season_end": "Sep"
+ },
+ {
+   "country_code": "IR",
+   "country_name": "Iran",
+   "cost_rating": 1,
+   "peak_season_start": "Apr",
+   "peak_season_end": "Oct"
+ },
+ {
+   "country_code": "IQ",
+   "country_name": "Iraq",
+   "cost_rating": 5,
+   "peak_season_start": "Mar",
+   "peak_season_end": "May"
+ },
+ {
+   "country_code": "IE",
+   "country_name": "Ireland",
+   "cost_rating": 5,
+   "peak_season_start": "Jun",
+   "peak_season_end": "Aug"
+ },
+ {
+   "country_code": "IL",
+   "country_name": "Israel",
+   "cost_rating": 6,
+   "peak_season_start": "Mar",
+   "peak_season_end": "May"
+ },
+ {
+   "country_code": "IT",
+   "country_name": "Italy",
+   "cost_rating": 5,
+   "peak_season_start": "May",
+   "peak_season_end": "Sep"
+ },
+ {
+   "country_code": "JM",
+   "country_name": "Jamaica",
+   "cost_rating": 4,
+   "peak_season_start": "Dec",
+   "peak_season_end": "Apr"
+ },
+ {
+   "country_code": "JP",
+   "country_name": "Japan",
+   "cost_rating": 5,
+   "peak_season_start": "Mar",
+   "peak_season_end": "May"
+ },
+ {
+   "country_code": "JO",
+   "country_name": "Jordan",
+   "cost_rating": 6,
+   "peak_season_start": "Mar",
+   "peak_season_end": "May"
+ },
+ {
+   "country_code": "KZ",
+   "country_name": "Kazakhstan",
+   "cost_rating": 2,
+   "peak_season_start": "May",
+   "peak_season_end": "Sep"
+ },
+ {
+   "country_code": "KE",
+   "country_name": "Kenya",
+   "cost_rating": 4,
+   "peak_season_start": "Jun",
+   "peak_season_end": "Oct"
+ },
+ {
+   "country_code": "KR",
+   "country_name": "Korea",
+   "cost_rating": 6,
+   "peak_season_start": "Apr",
+   "peak_season_end": "Oct"
+ },
+ {
+   "country_code": "XK",
+   "country_name": "Kosovo",
+   "cost_rating": 2,
+   "peak_season_start": "Jun",
+   "peak_season_end": "Sep"
+ },
+ {
+   "country_code": "KW",
+   "country_name": "Kuwait",
+   "cost_rating": 5,
+   "peak_season_start": "Nov",
+   "peak_season_end": "Mar"
+ },
+ {
+   "country_code": "KG",
+   "country_name": "Kyrgyzstan",
+   "cost_rating": 2,
+   "peak_season_start": "May",
+   "peak_season_end": "Sep"
+ },
+ {
+   "country_code": "LA",
+   "country_name": "Laos",
+   "cost_rating": 3,
+   "peak_season_start": "Nov",
+   "peak_season_end": "Mar"
+ },
+ {
+   "country_code": "LV",
+   "country_name": "Latvia",
+   "cost_rating": 4,
+   "peak_season_start": "Jun",
+   "peak_season_end": "Aug"
+ },
+ {
+   "country_code": "LB",
+   "country_name": "Lebanon",
+   "cost_rating": 4,
+   "peak_season_start": "Jun",
+   "peak_season_end": "Sep"
+ },
+ {
+   "country_code": "LT",
+   "country_name": "Lithuania",
+   "cost_rating": 3,
+   "peak_season_start": "Jun",
+   "peak_season_end": "Aug"
+ },
+ {
+   "country_code": "LU",
+   "country_name": "Luxembourg",
+   "cost_rating": 5,
+   "peak_season_start": "Jun",
+   "peak_season_end": "Aug"
+ },
+ {
+   "country_code": "MO",
+   "country_name": "Macau",
+   "cost_rating": 5,
+   "peak_season_start": "Oct",
+   "peak_season_end": "Mar"
+ },
+ {
+   "country_code": "MW",
+   "country_name": "Malawi",
+   "cost_rating": 2,
+   "peak_season_start": "May",
+   "peak_season_end": "Oct"
+ },
+ {
+   "country_code": "MY",
+   "country_name": "Malaysia",
+   "cost_rating": 3,
+   "peak_season_start": "Dec",
+   "peak_season_end": "Feb"
+ },
+ {
+   "country_code": "ML",
+   "country_name": "Mali",
+   "cost_rating": 3,
+   "peak_season_start": "Nov",
+   "peak_season_end": "Feb"
+ },
+ {
+   "country_code": "MT",
+   "country_name": "Malta",
+   "cost_rating": 4,
+   "peak_season_start": "Jun",
+   "peak_season_end": "Aug"
+ },
+ {
+   "country_code": "MU",
+   "country_name": "Mauritius",
+   "cost_rating": 4,
+   "peak_season_start": "May",
+   "peak_season_end": "Oct"
+ },
+ {
+   "country_code": "MX",
+   "country_name": "Mexico",
+   "cost_rating": 3,
+   "peak_season_start": "Dec",
+   "peak_season_end": "Apr"
+ },
+ {
+   "country_code": "MC",
+   "country_name": "Monaco",
+   "cost_rating": 6,
+   "peak_season_start": "Jun",
+   "peak_season_end": "Aug"
+ },
+ {
+   "country_code": "MA",
+   "country_name": "Morocco",
+   "cost_rating": 4,
+   "peak_season_start": "Mar",
+   "peak_season_end": "May"
+ },
+ {
+   "country_code": "MZ",
+   "country_name": "Mozambique",
+   "cost_rating": 3,
+   "peak_season_start": "May",
+   "peak_season_end": "Oct"
+ },
+ {
+   "country_code": "MM",
+   "country_name": "Myanmar",
+   "cost_rating": 3,
+   "peak_season_start": "Nov",
+   "peak_season_end": "Mar"
+ },
+ {
+   "country_code": "NA",
+   "country_name": "Namibia",
+   "cost_rating": 2,
+   "peak_season_start": "May",
+   "peak_season_end": "Oct"
+ },
+ {
+   "country_code": "NP",
+   "country_name": "Nepal",
+   "cost_rating": 3,
+   "peak_season_start": "Sep",
+   "peak_season_end": "Nov"
+ },
+ {
+   "country_code": "NL",
+   "country_name": "Netherlands",
+   "cost_rating": 5,
+   "peak_season_start": "May",
+   "peak_season_end": "Sep"
+ },
+ {
+   "country_code": "NC",
+   "country_name": "New Caledonia",
+   "cost_rating": 5,
+   "peak_season_start": "May",
+   "peak_season_end": "Oct"
+ },
+ {
+   "country_code": "NZ",
+   "country_name": "New Zealand",
+   "cost_rating": 4,
+   "peak_season_start": "Dec",
+   "peak_season_end": "Feb"
+ },
+ {
+   "country_code": "NI",
+   "country_name": "Nicaragua",
+   "cost_rating": 3,
+   "peak_season_start": "Dec",
+   "peak_season_end": "Apr"
+ },
+ {
+   "country_code": "NG",
+   "country_name": "Nigeria",
+   "cost_rating": 4,
+   "peak_season_start": "Nov",
+   "peak_season_end": "Feb"
+ },
+ {
+   "country_code": "MK",
+   "country_name": "North Macedonia",
+   "cost_rating": 2,
+   "peak_season_start": "Jun",
+   "peak_season_end": "Sep"
+ },
+ {
+   "country_code": "NO",
+   "country_name": "Norway",
+   "cost_rating": 6,
+   "peak_season_start": "Jun",
+   "peak_season_end": "Aug"
+ },
+ {
+   "country_code": "OM",
+   "country_name": "Oman",
+   "cost_rating": 6,
+   "peak_season_start": "Nov",
+   "peak_season_end": "Mar"
+ },
+ {
+   "country_code": "PK",
+   "country_name": "Pakistan",
+   "cost_rating": 2,
+   "peak_season_start": "Oct",
+   "peak_season_end": "Mar"
+ },
+ {
+   "country_code": "PA",
+   "country_name": "Panama",
+   "cost_rating": 4,
+   "peak_season_start": "Dec",
+   "peak_season_end": "Apr"
+ },
+ {
+   "country_code": "PG",
+   "country_name": "Papua New Guinea",
+   "cost_rating": 4,
+   "peak_season_start": "May",
+   "peak_season_end": "Oct"
+ },
+ {
+   "country_code": "PY",
+   "country_name": "Paraguay",
+   "cost_rating": 2,
+   "peak_season_start": "May",
+   "peak_season_end": "Oct"
+ },
+ {
+   "country_code": "PE",
+   "country_name": "Peru",
+   "cost_rating": 4,
+   "peak_season_start": "May",
+   "peak_season_end": "Oct"
+ },
+ {
+   "country_code": "PH",
+   "country_name": "Philippines",
+   "cost_rating": 3,
+   "peak_season_start": "Nov",
+   "peak_season_end": "May"
+ },
+ {
+   "country_code": "PL",
+   "country_name": "Poland",
+   "cost_rating": 3,
+   "peak_season_start": "Jun",
+   "peak_season_end": "Aug"
+ },
+ {
+   "country_code": "PT",
+   "country_name": "Portugal",
+   "cost_rating": 4,
+   "peak_season_start": "Jun",
+   "peak_season_end": "Sep"
+ },
+ {
+   "country_code": "PR",
+   "country_name": "Puerto Rico",
+   "cost_rating": 5,
+   "peak_season_start": "Dec",
+   "peak_season_end": "Apr"
+ },
+ {
+   "country_code": "QA",
+   "country_name": "Qatar",
+   "cost_rating": 6,
+   "peak_season_start": "Nov",
+   "peak_season_end": "Mar"
+ },
+ {
+   "country_code": "RO",
+   "country_name": "Romania",
+   "cost_rating": 3,
+   "peak_season_start": "Jun",
+   "peak_season_end": "Aug"
+ },
+ {
+   "country_code": "RU",
+   "country_name": "Russia",
+   "cost_rating": 4,
+   "peak_season_start": "Jun",
+   "peak_season_end": "Aug"
+ },
+ {
+   "country_code": "RW",
+   "country_name": "Rwanda",
+   "cost_rating": 3,
+   "peak_season_start": "May",
+   "peak_season_end": "Oct"
+ },
+ {
+   "country_code": "LC",
+   "country_name": "Saint Lucia",
+   "cost_rating": 5,
+   "peak_season_start": "Dec",
+   "peak_season_end": "Apr"
+ },
+ {
+   "country_code": "VC",
+   "country_name": "Saint Vincent",
+   "cost_rating": 4,
+   "peak_season_start": "Dec",
+   "peak_season_end": "Apr"
+ },
+ {
+   "country_code": "WS",
+   "country_name": "Samoa",
+   "cost_rating": 4,
+   "peak_season_start": "May",
+   "peak_season_end": "Oct"
+ },
+ {
+   "country_code": "SA",
+   "country_name": "Saudi Arabia",
+   "cost_rating": 4,
+   "peak_season_start": "Nov",
+   "peak_season_end": "Mar"
+ },
+ {
+   "country_code": "SN",
+   "country_name": "Senegal",
+   "cost_rating": 4,
+   "peak_season_start": "Nov",
+   "peak_season_end": "Feb"
+ },
+ {
+   "country_code": "RS",
+   "country_name": "Serbia",
+   "cost_rating": 3,
+   "peak_season_start": "Jun",
+   "peak_season_end": "Sep"
+ },
+ {
+   "country_code": "SL",
+   "country_name": "Sierra Leone",
+   "cost_rating": 2,
+   "peak_season_start": "Nov",
+   "peak_season_end": "Feb"
+ },
+ {
+   "country_code": "SG",
+   "country_name": "Singapore",
+   "cost_rating": 6,
+   "peak_season_start": "Nov",
+   "peak_season_end": "Mar"
+ },
+ {
+   "country_code": "SK",
+   "country_name": "Slovakia",
+   "cost_rating": 4,
+   "peak_season_start": "Jun",
+   "peak_season_end": "Aug"
+ },
+ {
+   "country_code": "SI",
+   "country_name": "Slovenia",
+   "cost_rating": 3,
+   "peak_season_start": "Jun",
+   "peak_season_end": "Aug"
+ },
+ {
+   "country_code": "SB",
+   "country_name": "Solomon Islands",
+   "cost_rating": 4,
+   "peak_season_start": "May",
+   "peak_season_end": "Oct"
+ },
+ {
+   "country_code": "ZA",
+   "country_name": "South Africa",
+   "cost_rating": 2,
+   "peak_season_start": "Dec",
+   "peak_season_end": "Feb"
+ },
+ {
+   "country_code": "ES",
+   "country_name": "Spain",
+   "cost_rating": 5,
+   "peak_season_start": "Jun",
+   "peak_season_end": "Sep"
+ },
+ {
+   "country_code": "LK",
+   "country_name": "Sri Lanka",
+   "cost_rating": 3,
+   "peak_season_start": "Dec",
+   "peak_season_end": "Mar"
+ },
+ {
+   "country_code": "SD",
+   "country_name": "Sudan",
+   "cost_rating": 2,
+   "peak_season_start": "Nov",
+   "peak_season_end": "Feb"
+ },
+ {
+   "country_code": "SR",
+   "country_name": "Surinam",
+   "cost_rating": 3,
+   "peak_season_start": "Dec",
+   "peak_season_end": "Apr"
+ },
+ {
+   "country_code": "SE",
+   "country_name": "Sweden",
+   "cost_rating": 5,
+   "peak_season_start": "Jun",
+   "peak_season_end": "Aug"
+ },
+ {
+   "country_code": "CH",
+   "country_name": "Switzerland",
+   "cost_rating": 6,
+   "peak_season_start": "Jun",
+   "peak_season_end": "Aug"
+ },
+ {
+   "country_code": "TW",
+   "country_name": "Taiwan",
+   "cost_rating": 5,
+   "peak_season_start": "Nov",
+   "peak_season_end": "Mar"
+ },
+ {
+   "country_code": "TZ",
+   "country_name": "Tanzania",
+   "cost_rating": 3,
+   "peak_season_start": "May",
+   "peak_season_end": "Oct"
+ },
+ {
+   "country_code": "TH",
+   "country_name": "Thailand",
+   "cost_rating": 4,
+   "peak_season_start": "Nov",
+   "peak_season_end": "Mar"
+ },
+ {
+   "country_code": "TO",
+   "country_name": "Tonga",
+   "cost_rating": 3,
+   "peak_season_start": "May",
+   "peak_season_end": "Oct"
+ },
+ {
+   "country_code": "TT",
+   "country_name": "Trinidad and Tobago",
+   "cost_rating": 6,
+   "peak_season_start": "Dec",
+   "peak_season_end": "Apr"
+ },
+ {
+   "country_code": "TN",
+   "country_name": "Tunisia",
+   "cost_rating": 2,
+   "peak_season_start": "Mar",
+   "peak_season_end": "May"
+ },
+ {
+   "country_code": "TR",
+   "country_name": "Turkey",
+   "cost_rating": 3,
+   "peak_season_start": "Apr",
+   "peak_season_end": "Oct"
+ },
+ {
+   "country_code": "UG",
+   "country_name": "Uganda",
+   "cost_rating": 3,
+   "peak_season_start": "Jun",
+   "peak_season_end": "Sep"
+ },
+ {
+   "country_code": "UA",
+   "country_name": "Ukraine",
+   "cost_rating": 3,
+   "peak_season_start": "Jun",
+   "peak_season_end": "Aug"
+ },
+ {
+   "country_code": "AE",
+   "country_name": "United Arab Emirates",
+   "cost_rating": 6,
+   "peak_season_start": "Nov",
+   "peak_season_end": "Mar"
+ },
+ {
+   "country_code": "GB",
+   "country_name": "United Kingdom",
+   "cost_rating": 5,
+   "peak_season_start": "Jun",
+   "peak_season_end": "Aug"
+ },
+ {
+   "country_code": "US",
+   "country_name": "United States of America",
+   "cost_rating": 5,
+   "peak_season_start": "Jun",
+   "peak_season_end": "Aug"
+ },
+ {
+   "country_code": "UY",
+   "country_name": "Uruguay",
+   "cost_rating": 3,
+   "peak_season_start": "Dec",
+   "peak_season_end": "Feb"
+ },
+ {
+   "country_code": "VU",
+   "country_name": "Vanuatu",
+   "cost_rating": 4,
+   "peak_season_start": "May",
+   "peak_season_end": "Oct"
+ },
+ {
+   "country_code": "VN",
+   "country_name": "Vietnam",
+   "cost_rating": 3,
+   "peak_season_start": "Nov",
+   "peak_season_end": "Apr"
+ },
+ {
+   "country_code": "ZM",
+   "country_name": "Zambia",
+   "cost_rating": 2,
+   "peak_season_start": "May",
+   "peak_season_end": "Oct"
+ }
+]
